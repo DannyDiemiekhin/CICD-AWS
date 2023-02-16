@@ -57,6 +57,6 @@ resource "aws_security_group" "ec2-SG" {
 
   tags = {
     Name  = "Web Server SecurityGroup"
-    Owner = "Danny Dannettt"
+    Owner = "Danny Dannetttt"
   }
 }
